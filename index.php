@@ -3,7 +3,7 @@
 /*
   Plugin Name: Woo-AliPay-API
   Description: Extends WooCommerce to Process Payments with AliPay's API Method.
-  Version: 1.1.1
+  Version: 1.1.2
   Plugin URI: https://wordpress.org/plugins/woo-alipay-api/
   Author: Yedpay
   Author URI: https://www.yedpay.com/
